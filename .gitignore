@@ -2,13 +2,13 @@
 *.veg
 *.bak
 *.flac
-*.png
+/*.png
 *.psd
 *.ass
 *.atpj
 *.sfk
 *.sfl
 *.aa3
-*.jpg
+/*.jpg
 *.html
 Audio/
