@@ -1,0 +1,12 @@
+ {
+	"name": "Test",
+	"description": "Test Track",
+	"tags" : ["#drift","drift","test track","circuit","original","China"],
+	"geotags": ["lat", "lon"],
+	"country": "China",
+	"city": "Beijing",
+	"length": "905",
+	"width": "15",
+	"pitboxes": "18",
+	"run": "DRIFT"
+}
