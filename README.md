@@ -2,9 +2,9 @@
 
 1. 软件
 
-    Assetto Corse
+    Assetto Corsa
     
-    Assetto Corse SDK
+    Assetto Corsa SDK
     
     3D 建模软件（Blender）
 
